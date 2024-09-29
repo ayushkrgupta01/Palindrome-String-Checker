@@ -1,1 +1,1 @@
-
+Palindrome String Checker is a C++ program that checks whether a given string is a palindrome. It ignores spaces, punctuation, and is case-insensitive, making it ideal for accurately determining whether the input reads the same forward and backward.
